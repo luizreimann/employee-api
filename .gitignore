@@ -1,0 +1,15 @@
+*.env
+.env*
+.dockerignore
+docker-compose.override.yml
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+.DS_Store
+Thumbs.db
+
+*.db
+*.sqlite3
